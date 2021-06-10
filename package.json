@@ -1,0 +1,11 @@
+{
+  "name": "productshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "author": "JAReina",
+  "license": "ISC"
+}
