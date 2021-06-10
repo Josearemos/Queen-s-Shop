@@ -32,7 +32,7 @@ Página principal con varios banners y el header con pestañas y carrito
 
 Al acceder a un producto con el precio, añadirlo al carrito y descripción
 
-**[![06.png](https://i.postimg.cc/8cFcckjz/06.png)](https://postimg.cc/hQBc3BLk)**
+[![imagen-2021-06-10-142354.png](https://i.postimg.cc/cJw4VkPr/imagen-2021-06-10-142354.png)](https://postimg.cc/qtBTKwJT)**
   [![07.png](https://i.postimg.cc/mkFZRd5c/07.png)](https://postimg.cc/SYkbfGqq)
   
 
